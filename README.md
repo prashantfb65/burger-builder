@@ -17,4 +17,4 @@ Some samples of the interface available are provided in the snapshot.
 
 ## Navigation bar view
 
-![Screenshot](images/sample_3.png)
+![Screenshot](images/sample_2.png)
